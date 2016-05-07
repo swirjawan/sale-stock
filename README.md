@@ -11,4 +11,4 @@ To run the unit test: npm test
 
 Supported API: 
 - [GET, POST] /api/products/ 
-- [GET,PUT, DELETE] /api/products/:id 
+- [GET, PUT, DELETE] /api/products/:id 
